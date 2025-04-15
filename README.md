@@ -11,7 +11,7 @@ We provide the raw dataset and the processed dataset, which are stored in two fo
 3、The CIC-IOT-2023 dataset can be obtained at [Canadian Institute for Cybersecurity]( https://www.unb.ca/cic/datasets/iotdataset-2023.html).
 
 ## Directory Structure
-1、**raw_dataset：**We provide the raw MTA and CIC-IoT-2023 datasets used in this study.
+1、**raw_dataset**  We provide the raw MTA and CIC-IoT-2023 datasets used in this study.
 
 1、**processed_dataset:**  We provide the processed MTA and CIC-IoT-2023 datasets. Both datasets have been preprocessed using the improved Power Law Division (PLD) algorithm and modeled using the Adaptive Flow-level Burst Graph (AFG) structure. The datasets are available in both `.bin` and `.pkl` formats.
 
