@@ -1,4 +1,4 @@
-Datasets and code for `RDNet: Robust Detection of Malicious Encrypted Traffic against Obfuscation via Spatial-Temporal Feature Fusion Network`.
+Datasets and code for `TransGraphNet: Robust detection of malicious encrypted network traffic via transformer and graph neural models`.
 
 ## Datasets
 
