@@ -18,7 +18,7 @@ We provide the raw dataset and the processed dataset, which are stored in two fo
 2、code：We have integrated the data reading and classification modules into a single Python file.
 
 ## How to clone
-`git clone https://github.com/PeerJ-RDNet/RDNet.git`
+`git clone https://github.com/TransGraphNet/TransGraphNet.git`
 
 `git lfs pull`
 
